@@ -1,0 +1,53 @@
+commit 3ce9187324e4b4413351b14a673f27582c153e17
+Author: Mars Piazza <epiazza@mines.edu>
+Date:   Tue Sep 27 14:49:34 2022 -0600
+
+    changed eye width to same distance as head -Mars
+
+commit 3239504a92bb078721ca61fe3ad56c83a3aa6bd6
+Author: cmcgovern0129 <cmcgovern@mines.edu>
+Date:   Tue Sep 27 14:47:43 2022 -0600
+
+    Changed g2 set color to pink- Connor McGovern
+
+commit fcdf1dbd880c3459c72dca9f22eb58cd824dfebd
+Author: Katherine Chartier <kchartier@mines.edu>
+Date:   Tue Sep 27 14:46:46 2022 -0600
+
+    mouth color yellow
+
+commit dcd4f50601cdac88a47a84c53a7f8f8b35479a1a
+Author: Mars Piazza <epiazza@mines.edu>
+Date:   Tue Sep 27 14:44:14 2022 -0600
+
+    changed eyes to blue -Mars
+
+commit 9f31bf944865a198a3f37afddb7787f2b7acf38f
+Author: cmcgovern0129 <cmcgovern@mines.edu>
+Date:   Tue Sep 27 14:42:51 2022 -0600
+
+    Changed mouth width- Connor McGovern
+
+commit 99f3d83bf3e4f44b094c024d77632f34f0c98acb
+Author: Katherine Chartier <kchartier@mines.edu>
+Date:   Tue Sep 27 14:38:43 2022 -0600
+
+    changed color to red
+
+commit 354ac0a81e02eb36c3da04a1fe2d609d6a735ca6
+Author: Mars Piazza <epiazza@mines.edu>
+Date:   Tue Sep 27 14:36:09 2022 -0600
+
+    changed eye height to 10 -Mars
+
+commit 1a22349fff3bacbcc7421d1e73eddea622913d6a
+Author: cmcgovern0129 <cmcgovern@mines.edu>
+Date:   Tue Sep 27 14:28:59 2022 -0600
+
+    Changed Head Size-Connor McGovern
+
+commit f00023c4fca6b4b2187978a101933bcbaaec77d3
+Author: Katherine Chartier <kchartier@mines.edu>
+Date:   Tue Sep 27 14:22:18 2022 -0600
+
+    initial commit
